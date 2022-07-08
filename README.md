@@ -2,7 +2,7 @@
 ### 💻 스터디 진행
 ● (주말 제외) 매일 백준 ***단계별 문제 2개*** commit 후 피드백
 ### 👽 참가자
-● **JinJinee** 　　　　　　　　　　　　　　　　　　●**Gyuddi**
+● **JinJinee** 　　　　　　　　　　　　　　　　　　● **Gyuddi**
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wls3147)](https://solved.ac/wls3147)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=samll8539)](https://solved.ac/samll8539)
