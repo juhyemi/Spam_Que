@@ -18,6 +18,7 @@ public class BOJ_1992_H {
         quad_Tree(0,0,N);
         System.out.println(sb);
     }
+    
     //배열의 특정 공간이 같은 숫자로 채워 있는지 확인하는 함수
     private static boolean check_BW(int row, int column, int N){
         boolean answer = true;
@@ -30,6 +31,7 @@ public class BOJ_1992_H {
             }
         }
         return answer;
+        
     }
     private static void quad_Tree(int row, int column, int N){
         // 재귀 탈출조건 - 나눈 공간의 모든 숫자가 똑같은 경우
