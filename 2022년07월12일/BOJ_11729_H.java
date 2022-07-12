@@ -10,6 +10,7 @@ public class BOJ_11729_H {
         hanoi(num,1,3,2);
         System.out.println(sb);
     }
+    
     private static void hanoi(int num, int start, int end, int rest){
         // 탈출 조건 - num이 1이 되면 sout후 재귀를 끝낸다.
         if (num == 1){
