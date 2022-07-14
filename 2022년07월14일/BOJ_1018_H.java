@@ -29,6 +29,7 @@ public class BOJ_1018_H {
         }
         System.out.println(minimum);
     }
+    
     private static int find(int x, int y){
         int count_1 = 0;
         int count_2 = 0;
