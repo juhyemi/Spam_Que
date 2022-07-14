@@ -27,6 +27,5 @@ public class BOJ_7568_H {
             }
             System.out.println(count);
         }
-
     }
 }
