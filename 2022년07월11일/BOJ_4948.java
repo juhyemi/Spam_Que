@@ -17,10 +17,8 @@ public class BOJ_4948 {
             // 0이 입력되면 반복문 종료
             if(n == 0){
                 break;
-            }
-            
-           
-
+            }            
+         
             int cnt = 0;
             for(int i=n+1; i<=2*n; i++){
                 if(checkIsPrimeNumber(i)){
@@ -30,8 +28,7 @@ public class BOJ_4948 {
             sb.append(cnt).append("\n");
         }
         System.out.println(sb);
-        
-        
+              
     }   
 
     // 소수인지 확인하는 함수
