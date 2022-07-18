@@ -23,6 +23,8 @@ public class BOJ_2751_수진 {
                 sb.append(i-1000000).append("\n");
             }
         }
+        
         System.out.println(sb);
+        
     }
 }
