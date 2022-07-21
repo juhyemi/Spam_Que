@@ -7,7 +7,7 @@ public class BOJ_6550_H {
             String s = sc.next();
             String t = sc.next();
             int idx = 0;
-            for (int i = 0; i < s.length(); i++) {
+            for (int i = 0; i < t.length(); i++) {
                 if (s.charAt(idx) == t.charAt(i)){
                     idx++;
                 }
