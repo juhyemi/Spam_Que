@@ -19,7 +19,7 @@ public class BOJ_6550_H {
                 System.out.println("Yes");
             }
             else {
-                System.out.println("NO");
+                System.out.println("No");
             }
         }
 
