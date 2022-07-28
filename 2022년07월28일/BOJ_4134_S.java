@@ -4,7 +4,6 @@ package Beakjoon;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.math.BigInteger;
 
 public class BOJ_4134_S {
     public static void main(String[] args) throws IOException{
@@ -14,16 +13,26 @@ public class BOJ_4134_S {
         int T = Integer.parseInt(br.readLine());
         
         while(T-- > 0){
-            String num = br.readLine();
-            BigInteger bi = new BigInteger(num);
+            long n = Long.parseLong(br.readLine());
 
-            if(bi.isProbablePrime(10)){
-                sb.append(num).append("\n");
-            }else{
-                sb.append(bi.nextProbablePrime()).append("\n");
+            for(long i=n; true; i++){
+                if(isPrimeNum(i)){
+                    sb.append(i).append("\n"); 
+                    break;
+                }
             }
         }
 
         System.out.println(sb);
+    }
+
+    public static boolean isPrimeNum(long n){
+        if(n==0 || n==1) return false;
+
+        for(long i=2; i*i<=n; i++){
+            if(n%i == 0) return false;
+        }
+
+        return true;
     }
 }
