@@ -61,8 +61,6 @@ public class BOJ_21275_H {
             System.out.println("Multiple");
         }
 
-
-
     }
     private static int convert(String A, int c){
         int sum = 0;
