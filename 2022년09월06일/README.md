@@ -1,2 +1,2 @@
-# 📚 오늘의 문제 - 완전 탐색
-- 백준 2231번 : [분해합](https://www.acmicpc.net/problem/2231)
+# 📚 오늘의 문제
+- 프로그래머스 2022 Kakao Tech Internship : [성격유형검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
