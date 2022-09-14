@@ -13,28 +13,19 @@ public class BOJ_14916_S{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(br.readLine());
-        int answer = -1;
+        int cnt = 0;
 
-        
-        int fCnt = n/5;
-
-        while(fCnt >= 0){
-            int balance = n - fCnt*5;
-
-            if(balance == 0){
-                answer = fCnt;
+        while(n > 0){
+            if(n%5 == 0){
+                cnt += n/5;
                 break;
-            }else{
-                if(balance%2 == 0){
-                    answer = fCnt + balance/2;
-                    break;
-                }else{
-                    fCnt--;
-                }
             }
-        }
 
-        System.out.println(answer);
-            
+            n -= 2;
+            cnt++;
+        }
+        
+        if(n < 0) System.out.println(-1);
+        else System.out.println(cnt);
     }
 }
