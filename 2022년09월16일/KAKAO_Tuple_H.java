@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
-
 public class KAKAO_Tuple_H {
     public static void main(String[] args) {
         String s = "{{2},{2,1},{2,1,3},{2,1,3,4}}";
