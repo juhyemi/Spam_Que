@@ -8,3 +8,4 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=samll8539)](https://solved.ac/samll8539)
 
 ● **Juhyemi**
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawngp124)](https://solved.ac/rlawngp124)
