@@ -18,5 +18,4 @@
 - 백준 2753번 : [윤년](https://www.acmicpc.net/problem/2753)
 - 백준 14681번 : [사분면고르기](https://www.acmicpc.net/problem/14681)
 - 백준 2884번 : [알람 시계](https://www.acmicpc.net/problem/2884)
-- 백준 2525번 : [오븐 시계](https://www.acmicpc.net/problem/2525)
-- 백준 2480번 : [주사위 세개](https://www.acmicpc.net/problem/2480)
+
