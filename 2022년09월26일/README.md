@@ -5,7 +5,8 @@
 
 
 ### 주혜
-
+- 백준 2525번 : [오븐 시계](https://www.acmicpc.net/problem/2525)
+- 백준 2480번 : [주사위 세개](https://www.acmicpc.net/problem/2480)
 
 ## 동적 계획법이란?
 
