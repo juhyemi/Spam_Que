@@ -1,5 +1,7 @@
  # 📚 오늘의 문제
-● **주혜**
+ 
+ ## 주혜
+**입출력과 사칙연산**
 - 백준 10998번 :	[ A×B ](https://www.acmicpc.net/problem/10998)
 - 백준 1008번 : [ A/B ](https://www.acmicpc.net/problem/1008)
 - 백준 10869번 :	[ 사칙연산 ](https://www.acmicpc.net/problem/10869)
