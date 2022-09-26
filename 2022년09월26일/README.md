@@ -2,6 +2,7 @@
  
 ### 수진 규현
 - 백준 10870번 : [피보나치 수 5](https://www.acmicpc.net/problem/10870)
+- 백준 17626번 : [Four Squares](https://www.acmicpc.net/problem/17626)
 
 
 ### 주혜
