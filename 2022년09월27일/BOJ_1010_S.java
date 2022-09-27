@@ -24,9 +24,6 @@ public class BOJ_1010_S {
 		}
 		
 		System.out.println(sb);
-		
-		
-		
 	}
 	
 	public static int combi(int n, int r) {
