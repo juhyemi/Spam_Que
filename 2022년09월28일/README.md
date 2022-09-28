@@ -4,4 +4,6 @@
 > 동적 계획법
 - 백준 9655번 : [돌 게임](https://www.acmicpc.net/problem/9655)
 
+### 수진
+- 프로그래머스 : [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) 
 ### 주혜
