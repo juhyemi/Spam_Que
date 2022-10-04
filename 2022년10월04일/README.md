@@ -7,6 +7,8 @@
 
 
 ### 주혜
+- 백준 1874번 : [스택 수열](https://www.acmicpc.net/problem/1874)
+- 백준 2164번 : [카드2](https://www.acmicpc.net/problem/2164) 
 
 
 
