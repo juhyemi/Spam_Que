@@ -1,6 +1,6 @@
  # 📚 오늘의 문제
 ### 규현
-
+- 백준 10845번 : [큐](https://www.acmicpc.net/problem/10845)
 ### 수진
 - 백준 18258번 : [큐 2](https://www.acmicpc.net/problem/18258) - 큐
 - 백준 2164번 : [카드2](https://www.acmicpc.net/problem/2164) - 큐
