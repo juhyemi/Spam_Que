@@ -5,6 +5,7 @@
 - 백준 18258번 : [큐 2](https://www.acmicpc.net/problem/18258) - 큐
 - 백준 2164번 : [카드2](https://www.acmicpc.net/problem/2164) - 큐
 - 백준 2018번 : [수들의 합 5](https://www.acmicpc.net/problem/2018) - 투포인터
+- 백준 1940번 : [주몽](https://www.acmicpc.net/problem/1940) - 투포인터
 ### 주혜
 
 
