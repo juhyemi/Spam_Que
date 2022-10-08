@@ -1,6 +1,7 @@
  # 📚 오늘의 문제
 ### 규현
-
+- 백준 10866번 : [덱](https://www.acmicpc.net/problem/10866)
+- 백준 9012번 : [괄호](https://www.acmicpc.net/problem/9012)
 ### 수진
 
 ### 주혜
