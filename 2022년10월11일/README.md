@@ -3,6 +3,7 @@
 ### 수진
 - 백준 11659번 : [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 ### 주혜
+- 백준 2438번 : [별 찍기 - 1](https://www.acmicpc.net/problem/2438)
 
 <hr>
 
