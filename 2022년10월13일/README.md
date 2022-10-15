@@ -4,7 +4,7 @@
 ### 수진
 - 백준 11660번 : 구간 합 구하기 5
 ### 주혜
-- 백준 2439번 : 	[별 찍기 - 2](https://www.acmicpc.net/problem/2439)-아직 못 품
+- 백준 2439번 : 	[별 찍기 - 2](https://www.acmicpc.net/problem/2439)-아직 못 품ㅠ
 
 
 <hr>
