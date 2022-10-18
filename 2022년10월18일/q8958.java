@@ -3,33 +3,31 @@ package Bjalgorism;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
 
 public class q8958 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st;
 		StringBuilder sb = new StringBuilder();
-		int n = Integer.parseInt(bf.readLine());
 		
-		Queue <String> myQueue= new LinkedList<>();
-		for (int i=1;i<=n;i++) {//게임 수
-			String test = bf.readLine();
-			st = new StringTokenizer(test);
-			
-			while(st.nextToken()!=null) {
+		int n = Integer.parseInt(bf.readLine());//테스트 개수
 
-				myQueue.add(st.nextToken());//한 게임의 OX결과
-			}
+
+		for(int i =1; i<=n;i++) {
+			String test = bf.readLine();//ox 한 줄
+			char [] ch = test.toCharArray();
 			int count = 0;
-			if(myQueue.poll()=="O") {
-				count ++;
-				sb.append(count+"\n");
-			}else continue;
+			int sum = 0;
+			for(int j=0; j<ch.length; j++) {
+				if(ch[j] == 'O') {
+					count++;
+					sum += count;
+				}else if(ch[j] == 'X') {
+					count = 0;
+				}
+				
+			}sb.append(sum+"\n");
 		}System.out.println(sb);
-		
+
 	}
 
 }
