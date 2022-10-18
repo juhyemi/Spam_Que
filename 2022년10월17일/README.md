@@ -1,5 +1,6 @@
  # 📚 오늘의 문제
 ### 규현
+- 백준 1012번 : [유기농 배추](https://www.acmicpc.net/problem/1012)
 ### 수진
 - 백준 12891번 : [DNA 비밀번호](https://www.acmicpc.net/problem/12891)
 - 백준 21921번 : [블로그](acmicpc.net/problem/21921)
