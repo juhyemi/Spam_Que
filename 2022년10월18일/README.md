@@ -1,5 +1,6 @@
  # 📚 오늘의 문제
 ### 규현
+- 백준 11724반 : [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 ### 수진
 - 백준 11724반 : [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - 백준 26606번 : [바이러스](https://www.acmicpc.net/problem/2606)
