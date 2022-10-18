@@ -3,6 +3,8 @@
 ### 수진
 - 백준 11724반 : [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 ### 주혜
+- 백준 8958번 : [OX퀴즈](https://www.acmicpc.net/problem/8958)
+- 백준 4344번 : [평균은 넘겠지](https://www.acmicpc.net/problem/4344)
 
 
 
