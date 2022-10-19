@@ -1,6 +1,6 @@
  # 📚 오늘의 문제
 ### 규현
-
+- 백준 11723번 : [집합](https://www.acmicpc.net/problem/11723)
 ### 수진
 - 프로그래머스 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875?language=java) - 풀었는데 사라짐... 다시 품 ㅎㅎ
 ### 주혜
