@@ -2,5 +2,5 @@
 ### 규현
 
 ### 수진
-- 프로그래머스 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875?language=java)
+- 프로그래머스 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875?language=java) - 풀었는데 사라짐...
 ### 주혜
