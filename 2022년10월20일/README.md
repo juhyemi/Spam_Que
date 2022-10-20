@@ -7,7 +7,7 @@
 - 백준 2343번 : [기타 레슨](https://www.acmicpc.net/problem/2343)
 
 ### 주혜
-
+- 백준 4949번 : [균형잡힌 세상](https://www.acmicpc.net/problem/4949) //뇌가 멈춰버린 이유로 파업
 
 ## 이진 탐색(Binary Search)
 
