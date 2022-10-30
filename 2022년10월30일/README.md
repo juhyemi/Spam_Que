@@ -4,3 +4,4 @@
 ### 수진
 
 ### 주혜
+- 백준 1966번 : [프린터 큐](https://www.acmicpc.net/problem/1966)
