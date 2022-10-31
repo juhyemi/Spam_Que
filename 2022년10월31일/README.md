@@ -5,3 +5,4 @@
 
 ### 주혜
 - 백준 5430번 : [AC](https://www.acmicpc.net/problem/5430)
+- 백준 1712번 : [손익분기점](https://www.acmicpc.net/problem/1712)
