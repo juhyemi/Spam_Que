@@ -5,3 +5,4 @@
 - 백준 2292번 : [벌집](https://www.acmicpc.net/problem/2292)
 ### 주혜
 - 백준 1978번 : [소수 찾기](https://www.acmicpc.net/problem/1978)
+- 백준 2292번 : [벌집](https://www.acmicpc.net/problem/2292)
